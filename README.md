@@ -37,6 +37,11 @@ An initial study utilizing **Diffusion-based methods** and **Generative Adversar
 * **The Code Book:** [The Secret History of Codes - Simon Singh](https://www.amazon.de/-/en/Simon-Singh-ebook/dp/B003VWDOK2)
 * **Cryptography: A Very Short Introduction:** [Fred Piper & Sean Murphy](https://books.google.de/books?id=ySe0her52IwC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false)
 
+### Data Integrity Bias
+* **Biases in Data Science Lifecycle** [Oya Beyan, University of Cologne](https://www.researchgate.net/publication/344334843_Biases_in_Data_Science_Lifecycle)
+* **Ethical and Bias Considerations in Artificial Intelligence/Machine Learning** [Matthew G. Hanna a b , Liron Pantanowitz a b, Brian Jackson c d , Octavia Palmer a b , Shyam Visweswaran e, Joshua Pantanowitz f , Mustafa Deebajah g , Hooman H. Rashidi a b](https://www.sciencedirect.com/science/article/pii/S0893395224002667)
+* **Mitigating Bias in Scientific Evaluation and Decision-Making Processes** [Deutsche Forschungsgemeinschaft e.V.](https://www.dfg.de/en/basics-topics/basics-and-principles-of-funding/equal-opportunities/bias)
+*  **Tackling bias in artificial intelligence (and in humans)** [By Jake Silberg and James Manyika, McKinsey Global Institute](https://www.mckinsey.com/featured-insights/artificial-intelligence/tackling-bias-in-artificial-intelligence-and-in-humans)
 ---
 
 ## 🚀 Status
